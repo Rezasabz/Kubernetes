@@ -1,6 +1,6 @@
 ## Multi path Kubernetes with ingress nginx and HAProxy
 
-![[multi_path_ingress(2).png]]
+![Image Description](multi_path_ingress_1.png)
 
 ## app1
 
