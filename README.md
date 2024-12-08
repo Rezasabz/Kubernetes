@@ -138,7 +138,7 @@ sudo apt-get install helm
 ```
 helm upgrade --install ingress-nginx ingress-nginx --repo https://kubernetes.github.io/ingress-nginx --namespace ingress-nginx --create-namespace --set controller.service.type=NodePort
 ```
-### Run artifact files :
+### Run artifacts file:
 ```
 kubectl apply -f sample1.yml
 kubectl apply -f sample2.yml
